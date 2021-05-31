@@ -71,10 +71,12 @@ html {
 
 /*早餐*/
 #breakfast {
+	padding-right: 0px;
 	padding-bottom: 50px;
 	border-bottom: solid 1px #787D7B;
 	position: relative;
 	background-color: #F7F5F3;
+	width: 1121.61px;
 }
 
 .topicb p {
@@ -121,6 +123,7 @@ html {
 	padding-bottom: 50px;
 	border-bottom: solid 1px #787D7B;
 	background-color: #F7F5F3;
+	width: 1121.61px;
 }
 
 .topicl p {
@@ -165,6 +168,7 @@ html {
 	margin-top: 0px;
 	padding-top: 0px;
 	background-color: #F7F5F3;
+	width: 1121.61px;
 }
 
 .topicd p {

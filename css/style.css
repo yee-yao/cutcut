@@ -24,22 +24,36 @@
 	padding:0!important;
 }
 
-.about {
-	padding:100px 0;
+.firstsection {
+	margin:100px 0;
 }
 
-.about img {
+.firstsection img {
 	/*幫圖片加陰影*/
 	box-shadow:2px 2px 4px gray;
 	
 }
 
-.service img {
+.secondsection {
+	margin-top: 100px ;
+}
+
+.secondsection img {
+	/*幫圖片加陰影*/
+	box-shadow:2px 2px 4px gray;
+}
+
+.thirdsection {
+	margin-top: 100px;
+}
+
+.thirdsection img {
 	/*幫圖片加陰影*/
 	box-shadow:2px 2px 4px gray;
 }
 
 .recommand {
+	margin-top: 100px;
 	margin-bottom: 100px;
 }
 
@@ -69,9 +83,29 @@ input:hover {
 	border:2px #003C9D solid;
 }
 
-.seemore {
+.seemore1 {
+	background-color: #bd9f77;
+	
 	margin-left: 430px;
-	margin-top: 110px;
+	margin-top: 50px;
+}
+
+.seemore2 {
+	background-color: #bd9f77;
+	margin-left: 430px;
+	margin-top: 20px;
+}
+
+.seemore3 {
+	background-color: #bd9f77;
+	margin-left: 430px;
+	margin-top: 50px;
+}
+
+.seemore4 {
+	background-color: #bd9f77;
+	margin-left: 430px;
+	margin-top: 50px;
 }
 
 .page2h1 {
