@@ -1,0 +1,101 @@
+
+/*設定整體字型*/
+.container {
+	font-family: "Georgia";
+}
+
+@media (min-width: 768px) {
+/*nav選單*/
+	.navbar{
+	padding-left:50px!important;
+	padding-right:50px!important; 
+	}
+}
+
+.navbar-brand img {
+	height: 50px;
+}
+
+.banner {
+	margin-top: 76px;
+}
+
+.banner .container-fluid {
+	padding:0!important;
+}
+
+.about {
+	padding:100px 0;
+}
+
+.about img {
+	/*幫圖片加陰影*/
+	box-shadow:2px 2px 4px gray;
+	
+}
+
+.service img {
+	/*幫圖片加陰影*/
+	box-shadow:2px 2px 4px gray;
+}
+
+.recommand {
+	margin-bottom: 100px;
+}
+
+.recommand img {
+	/*幫圖片加陰影*/
+	box-shadow:2px 2px 4px gray;
+}
+
+/*設定圖片不要跑版*/
+.img-fluid {
+	width: 100%;
+	height: auto;
+}
+
+/*see more按鈕*/
+input {
+	border:0;
+ 	background-color:#003C9D;
+ 	color:#fff;
+ 	border-radius:10px;
+ 	cursor:pointer;
+}
+
+input:hover {
+	color:#003C9D;
+	background-color:#fff;
+	border:2px #003C9D solid;
+}
+
+.seemore {
+	margin-left: 430px;
+	margin-top: 110px;
+}
+
+.page2h1 {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+
+.rowcenter {
+	max-width: 50%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.upword {
+	margin-top: 50px;
+}
+
+/*設定標題引號*/
+.quote:before {
+    content: " “ ";
+    color: #bd9f77;
+    left: -0.5em;
+    top: -0.1em;
+    font-size: 160%;
+ }
