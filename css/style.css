@@ -71,39 +71,34 @@
 /*see more按鈕*/
 input {
 	border:0;
- 	background-color:#003C9D;
+ 	background-color:#bd9f77;
  	color:#fff;
  	border-radius:10px;
  	cursor:pointer;
 }
 
 input:hover {
-	color:#003C9D;
+	color:#bd9f77;
 	background-color:#fff;
-	border:2px #003C9D solid;
+	border:2px #bd9f77 solid;
 }
 
 .seemore1 {
-	background-color: #bd9f77;
-	
 	margin-left: 430px;
 	margin-top: 50px;
 }
 
 .seemore2 {
-	background-color: #bd9f77;
 	margin-left: 430px;
 	margin-top: 20px;
 }
 
 .seemore3 {
-	background-color: #bd9f77;
 	margin-left: 430px;
 	margin-top: 50px;
 }
 
 .seemore4 {
-	background-color: #bd9f77;
 	margin-left: 430px;
 	margin-top: 50px;
 }
